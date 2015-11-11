@@ -1,0 +1,17 @@
+{
+  "name": "preciosita",
+  "version": "0.0.0",
+  "description": "E2E Tests for vNext powered by another preciosita",
+  "main": "index.js",
+  "scripts": {
+    "test": "./selenium-standalone start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nightwatch": "^0.2.6",
+    "nightwatch": "^0.8.6",
+    "selenium-standalone": "^4.7.1"
+  }
+}
